@@ -1,0 +1,26 @@
+{
+  "name": "12employeetrackingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BadWolfx3/12EmployeeTrackingApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BadWolfx3/12EmployeeTrackingApp/issues"
+  },
+  "homepage": "https://github.com/BadWolfx3/12EmployeeTrackingApp#readme"
+}
